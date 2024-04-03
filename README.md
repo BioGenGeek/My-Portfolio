@@ -28,7 +28,7 @@ a Single Cell Data Analysis Using "scanpy ,anndata". The Dataset Was Obtained Fr
 
 #### Breast Cancer Diagnosis ML Models
 
-Used **ML** Explore the Predictive Power of Machine Learning on Breast Cancer Detection
+Used **ML** to Explore the Predictive Power of Machine Learning on Breast Cancer Detection
 
 
 
