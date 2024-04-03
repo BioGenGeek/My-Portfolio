@@ -1,6 +1,6 @@
 # Bioinformatician & Data Analyst
 
-#### Skills: Python, SQL, R, PowerBI, Data Manipulation, Data Visualization , Dashboards
+#### Skills: Python, SQL, R, PowerBI, Data Manipulation, Data Visualization , Dashboards 
 
 ## Education
 - M.Sc., Human Genetics	| Tehran University of Medical Sciences(_May 2023_)	 			        		
