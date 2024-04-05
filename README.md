@@ -1,6 +1,7 @@
 # Bioinformatician & Data Analyst
 
-#### A passionate data analyst who delves deep into big data in the field of biology and business to make data-driven decisions and strategies skilled in #### Python, SQL, R, PowerBI, Data Manipulation, Data Visualization, Dashboards 
+#### A passionate data analyst who delves deep into big data in the field of biology and business to make data-driven decisions and strategies skilled in: 
+#### Python, SQL, R, PowerBI, Data Manipulation, Data Visualization, Dashboards 
 
 ## Education
 - M.Sc., Human Genetics	| Tehran University of Medical Sciences(_May 2023_)	 			        		
