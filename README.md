@@ -24,7 +24,7 @@
 
 A Single Cell Data Analysis Using "scanpy ,anndata". The Dataset Was Obtained From a Previously Published Paper : Cano-Gamez, E., Soskic, B., Roumeliotis, T.I. et al. Single-cell transcriptomics identifies an effectorness gradient shaping the response of CD4+ T cells to cytokines. Nat Commun 11, 1801 (2020). https://doi.org/10.1038/s41467-020-15543-y
 
-
+![R](R.jpeg)
 
 #### Breast Cancer Diagnosis ML Models
 
@@ -43,7 +43,7 @@ One of the historical sales of supermarket company which has recorded in 3 diffe
 #### Car Ads 2020
 An analysis of huge number of car advertisments in the US. In this analysis several questions were answered regarding this valuable information
 
-
+![R (1)](R (1).png)
 
 [GitHub](https://www.github.com/BioGenGeek)
 
@@ -55,7 +55,7 @@ A brief RNA analysis on Airway dataset , a built-in dataset in R
 #### Human Resources Data
 A SQL analysis and PowerBI visualization on the distribution of employees 
 
-
+![sql](sql.png)
 
 # Courses
 •	Machine Learning for Bioinformatics (Sharif University) 
