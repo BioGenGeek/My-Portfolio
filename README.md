@@ -53,7 +53,7 @@ A brief RNA analysis on Airway dataset , a built-in dataset in R
 
 
 #### Human Resources Data
-A SQL analysis and PowerBI visualization on the distribution of employees
+A SQL analysis and PowerBI visualization on the distribution of employees 
 
 
 
