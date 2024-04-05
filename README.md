@@ -1,6 +1,6 @@
 # Bioinformatician & Data Analyst
 
-#### Skills: Python, SQL, R, PowerBI, Data Manipulation, Data Visualization , Dashboards 
+#### Skills: Python, SQL, R, PowerBI, Data Manipulation, Data Visualization, Dashboards 
 
 ## Education
 - M.Sc., Human Genetics	| Tehran University of Medical Sciences(_May 2023_)	 			        		
@@ -22,7 +22,7 @@
 
 #### Single Cell Analysis: scanpy
 
-a Single Cell Data Analysis Using "scanpy ,anndata". The Dataset Was Obtained From a Previously Published Paper : Cano-Gamez, E., Soskic, B., Roumeliotis, T.I. et al. Single-cell transcriptomics identifies an effectorness gradient shaping the response of CD4+ T cells to cytokines. Nat Commun 11, 1801 (2020). https://doi.org/10.1038/s41467-020-15543-y
+A Single Cell Data Analysis Using "scanpy ,anndata". The Dataset Was Obtained From a Previously Published Paper : Cano-Gamez, E., Soskic, B., Roumeliotis, T.I. et al. Single-cell transcriptomics identifies an effectorness gradient shaping the response of CD4+ T cells to cytokines. Nat Commun 11, 1801 (2020). https://doi.org/10.1038/s41467-020-15543-y
 
 
 
@@ -33,7 +33,7 @@ Used **ML** to Explore the Predictive Power of Machine Learning on Breast Cancer
 
 
 #### Titanic Survival Prediction
-a competition on kaggle : use machine learning to create a model that predicts which passengers survived the Titanic shipwreck
+A competition on kaggle : use machine learning to create a model that predicts which passengers survived the Titanic shipwreck
 
 #### Spotify 2023 Most Streamed Songs
 It provides insights into each song's attributes, popularity, and presence on various music platforms
