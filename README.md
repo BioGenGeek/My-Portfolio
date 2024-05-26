@@ -29,6 +29,8 @@ A Single Cell Data Analysis Using "scanpy ,anndata". The Dataset Was Obtained Fr
 A Spatial transcriptomics Analysis Using "Scanpy and Squidpy"
 
 
+
+
 ![R](R.jpeg)
 
 #### Breast Cancer Diagnosis ML Models
@@ -55,7 +57,7 @@ An analysis of huge number of car advertisments in the US. In this analysis seve
 #### Transcriptome Analysis
 A brief RNA analysis on Airway dataset , a built-in dataset in R
 
-#### Bislfite Seq Analysis
+#### Bisulfite Seq Analysis
 Using edgeR Packge to Analyze Bisulfite Seq Data in R
 
 #### Human Resources Data
