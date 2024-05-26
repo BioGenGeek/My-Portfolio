@@ -80,6 +80,8 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 
 •	Bioconductor for Genomic Data Science - Johns Hopkins University (Coursera) 
 
+•	Metabolomics, Lipidomics & Proteomics (Colorado State University) 
+
 •	NGS Analysis (Genomefan Institute) 
 
 •	Transcriptomics Analysis (ICBCONGRESS) 
