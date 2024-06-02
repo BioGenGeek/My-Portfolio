@@ -1,7 +1,7 @@
 # Bioinformatician & Data Analyst
 
 #### A passionate data analyst who delves deep into big data in the field of biology and business to make data-driven decisions and strategies skilled in: 
-#### Python, SQL, R, PowerBI, Data Manipulation, Data Visualization, Dashboards 
+#### Python, SQL, R, PowerBI, Data Manipulation, Data Visualization, Dashboards, Biological Data Analysis
 
 ## Education
 - M.Sc., Human Genetics	| Tehran University of Medical Sciences(_May 2023_)	 			        		
@@ -92,7 +92,20 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 # Publications
 - Yaghmouri, M., & Izadi, P. (2024). Role of the Neanderthal Genome in Genetic Susceptibility to COVID-19: 3p21.31 Locus in the Spotlight. Biochemical Genetics 2024, 1–25. https://doi.org/10.1007/S10528-024-10669-W
   
-- The Role of Pyroptosis in Respiratory Virus Infections ( in progress)
+- Letafati A., Salahi O., Yaghmouri M., Vasheghani A., et al. The Role of Pyroptosis in Respiratory Virus Infections (in progress)
 
-- Yaghmouri, M.,Safdari Lord, J., Amini, M., Yekaninejad, S., Izadi, P. The association of rs17713054 with Neanderthal origin at 3p21.31 locus with the severity of COVID-19 in Iranian patients (In revision process in Scientific Reports)
+- Yaghmouri, M.,Safdari Lord, J., Amini, M., Yekaninejad, S., Izadi, P. The association of rs17713054 with Neanderthal origin at 3p21.31 locus with the severity of COVID-19 in Iranian patients (In revision process in Scientific Reports)                                                                              
+
+•	Letafati A., Salahi O., Yaghmouri M., Vasheghani A., et al. The Role of Pyroptosis in Respiratory Virus Infections (in progress)
+
+#### BOOKS (in Edition)  
+
+- Letafati A., Yaghmouri M., Haidari M., Masumi Z., et al. Epigenetic Clocks and Aging Biomarkers: From DNA Methylation to Biological Age
+  
+- Letafati A., Salehi A., Yaghmouri M., Askari MR., et al. NK Cell Exhaustion in Cancer: From Activation to Exhaustion
+  
+-	Letafati A., Yaghmouri M., Askari MR., et al. Interplay Between Tumor Suppressors Pathways & Oncogenic Signaling in Cancer
+  
+-	Letafati A., Nik S., Rahimi F., Yaghmouri M., et al.  Unveiling Amyotrophic Lateral Sclerosis: Understanding Neurological and Therapeutic Avenues                
+
 
