@@ -96,7 +96,6 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 
 - Yaghmouri, M.,Safdari Lord, J., Amini, M., Yekaninejad, S., Izadi, P. The association of rs17713054 with Neanderthal origin at 3p21.31 locus with the severity of COVID-19 in Iranian patients (In revision process in Scientific Reports)                                                                              
 
-•	Letafati A., Salahi O., Yaghmouri M., Vasheghani A., et al. The Role of Pyroptosis in Respiratory Virus Infections (in progress)
 
 #### BOOKS (in Edition)  
 
