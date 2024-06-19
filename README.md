@@ -14,6 +14,15 @@
 - Experienced in niosome synthesis
 - Dedicated to instrument maintenance and providing exceptional services to fellow researchers, facilitating their scientific endeavors
 
+  
+#  Computer Skills
+
+- Skilled in R, Python, Linux, Machine Learning, and related repositories, libraries and packages
+- Experienced in NGS (WES, Analysis of 10 real-world clinical cases), Microarray, Bulk RNA
+- Single Cell seq Analyses, Spatial Transcriptomics, Methylation, sc/ATAC, ChIP Seq
+- Metabolomics, Proteomics and Lipidomics
+- Biostatistics, SPSS, GraphPad Prism
+- Primer Design, Drug Design, Cystoscape, STRING, Bioinformatics databases and online tools 
 
 ## Projects
 [Kaggle](https://www.kaggle.com/mohammadyaghmouri)
@@ -95,6 +104,10 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 - Letafati A., Salahi O., Yaghmouri M., Vasheghani A., et al. The Role of Pyroptosis in Respiratory Virus Infections (in progress)
 
 - Yaghmouri, M.,Safdari Lord, J., Amini, M., Yekaninejad, S., Izadi, P. The association of rs17713054 with Neanderthal origin at 3p21.31 locus with the severity of COVID-19 in Iranian patients (In revision process in Scientific Reports)                                                                              
+# Congress (2024)
+- Yaghmouri, M., Exploring the Relationship Between Alzheimer's Disease and the Metabolome: Insights from mRNA Expression Analysis. The 8th International Congress on ‌Biomedicine
+  
+- Yaghmouri, M., Integration of Bioinformatics and Computational Biology in Deciphering Molecular Mechanisms of Atherosclerosis: A Novel Approach. The 10th International Congress on Biology
 
 
 #### BOOKS (in Edition)  
