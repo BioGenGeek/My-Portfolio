@@ -1,7 +1,7 @@
 # Bioinformatician & Data Analyst
 
-#### A passionate data analyst who delves deep into big data in the field of biology and business to make data-driven decisions and strategies skilled in: 
-#### Python, SQL, R, PowerBI, Data Manipulation, Data Visualization, Dashboards, Biological Data Analysis
+#### A passionate data analyst who delves deep into big data in the field of biology  skilled in: 
+#### Python, R, Linux,  Data Manipulation, Data Visualization, Biological Data Analysis
 
 ## Education
 - M.Sc., Human Genetics	| Tehran University of Medical Sciences(_May 2023_)	 			        		
@@ -14,12 +14,22 @@
 - Experienced in niosome synthesis
 - Dedicated to instrument maintenance and providing exceptional services to fellow researchers, facilitating their scientific endeavors
 
+## Research & Teaching Experience
+#### RA | Pasteur Institute of Iran | 2020-Present
+•	Collaboration in Niosome synthesis, WB, and Cell culture experiments
+•	Image Processing for publication (Topographical images, Vesicles, and Bacteria)
+#### RA | Tehran University of Medical Sciences | 2024-Present
+•	Collaborating in a thesis project about Gene-Environment interaction with Prof. Izadi 
+#### TA | Pasteur Institute of Iran | 2022-Present
+•	Lecturer of AFM and Real-time PCR workshops
+•	Training new team members
+
   
 #  Computer Skills
 
 - Skilled in R, Python, Linux, Machine Learning, and related repositories, libraries and packages
 - Experienced in NGS (WES, Analysis of 10 real-world clinical cases), Microarray, Bulk RNA
-- Single Cell seq Analyses, Spatial Transcriptomics, Methylation, sc/ATAC, ChIP Seq
+- Single Cell seq Analyses, Spatial Transcriptomics, Methylation, sc/ATAC, ChIP, CITE Seq
 - Metabolomics, Proteomics and Lipidomics
 - Biostatistics, SPSS, GraphPad Prism
 - Primer Design, Drug Design, Cystoscape, STRING, Bioinformatics databases and online tools 
@@ -79,6 +89,10 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 
 •	Access Bioinformatics Databases with Biopython (Coursera)
 
+• Systems Biology and Biotechnology Specialization (Coursera)
+
+• Linear Algebra from Elementary to Advanced Specialization
+
 •	SARS-CoV-2 Protein Modeling and Drug Docking (Coursera)
 
 •	Fundamental Skills In Bioinformatics (Coursera)
@@ -99,17 +113,21 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 
 
 # Publications
-- Yaghmouri, M., & Izadi, P. (2024). Role of the Neanderthal Genome in Genetic Susceptibility to COVID-19: 3p21.31 Locus in the Spotlight. Biochemical Genetics 2024, 1–25. https://doi.org/10.1007/S10528-024-10669-W
+
+- Yaghmouri M, Safdari Lord J, Amini M, Yekaninejad MS, Izadi P. The association of rs17713054 with Neanderthal origin at 3p21. 31 locus with the severity of COVID-19 in Iranian patients. Scientific Reports. 2024 
+  Jul 1;14(1):1-6.
+  
+- Yaghmouri M, Izadi P. Role of the Neanderthal Genome in Genetic Susceptibility to COVID-19: 3p21. 31 Locus in the Spotlight. Biochemical Genetics. 2024 Feb 12:1-25. 
   
 - Letafati A., Salahi O., Yaghmouri M., Vasheghani A., et al. The Role of Pyroptosis in Respiratory Virus Infections (in progress)
 
-- Yaghmouri, M.,Safdari Lord, J., Amini, M., Yekaninejad, S., Izadi, P. The association of rs17713054 with Neanderthal origin at 3p21.31 locus with the severity of COVID-19 in Iranian patients (In revision process in Scientific Reports)
-
 
 #### Congress (2024)
-- Yaghmouri, M., Exploring the Relationship Between Alzheimer's Disease and the Metabolome: Insights from mRNA Expression Analysis. The 8th International Congress on ‌Biomedicine
-  
-- Yaghmouri, M., Integration of Bioinformatics and Computational Biology in Deciphering Molecular Mechanisms of Atherosclerosis: A Novel Approach. The 10th International Congress on Biology
+
+- Afsharpour,M., Yaghmouri, M., Tarahomi, M.,  Maldar, M., The Impact of DNA Methylation Changes in DNA Repair Genes on the Risk of Colorectal Cancer in Patients with Lynch Syndrome Compared to a Control 
+  Population. The International Congress on Cancer Genomics 2024 
+- Yaghmouri, M., Exploring the Relationship Between Alzheimer's Disease and the Metabolome: Insights from mRNA Expression Analysis. The 8th International Congress on ‌Biomedicine 2024 
+- Yaghmouri, M., Integration of Bioinformatics and Computational Biology in Deciphering Molecular Mechanisms of Atherosclerosis: A Novel Approach. The 10th International Congress on Biology 
 
 
 #### BOOKS (in Edition)  
