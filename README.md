@@ -86,11 +86,11 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 
 # Courses
 
-• SU, USMx: Overview & Management of Parkinson’s Disease
+• SU, USMx: Overview & Management of Parkinson’s Disease (edX)
 
-• SU, USMx: Alzheimer’s Disease & Dementia Care
+• SU, USMx: Alzheimer’s Disease & Dementia Care (edX)
 
-• Advanced Neurobiology I
+• Advanced Neurobiology I (Coursera)
 
 •	Machine Learning for Bioinformatics (Sharif University) 
 
