@@ -19,7 +19,7 @@
 •	Collaboration in Niosome synthesis, WB, and Cell culture experiments
 •	Image Processing for publication (Topographical images, Vesicles, and Bacteria)
 #### RA | Tehran University of Medical Sciences | 2024-Present
-•	Collaborating in a thesis project about Gene-Environment interaction with Prof. Izadi 
+•	Collaborating in a thesis project about 5-HTTLRP & COVID-19
 #### TA | Pasteur Institute of Iran | 2022-Present
 •	Lecturer of AFM and Real-time PCR workshops
 •	Training new team members
@@ -85,13 +85,16 @@ A SQL analysis and PowerBI visualization on the distribution of employees
 ![sql](sql.png)
 
 # Courses
+
+• SU, USMx: Overview & Management of Parkinson’s Disease
+
+• SU, USMx: Alzheimer’s Disease & Dementia Care
+
+• Advanced Neurobiology I
+
 •	Machine Learning for Bioinformatics (Sharif University) 
 
 •	Access Bioinformatics Databases with Biopython (Coursera)
-
-• Systems Biology and Biotechnology Specialization (Coursera)
-
-• Linear Algebra from Elementary to Advanced Specialization
 
 •	SARS-CoV-2 Protein Modeling and Drug Docking (Coursera)
 
