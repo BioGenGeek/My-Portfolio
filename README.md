@@ -79,10 +79,8 @@ A brief RNA analysis on Airway dataset , a built-in dataset in R
 #### Bisulfite Seq Analysis
 Using edgeR Packge to Analyze Bisulfite Seq Data in R
 
-#### Human Resources Data
-A SQL analysis and PowerBI visualization on the distribution of employees 
 
-![sql](sql.png)
+
 
 # Courses
 
