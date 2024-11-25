@@ -120,7 +120,7 @@ Using edgeR Packge to Analyze Bisulfite Seq Data in R
   
 - Yaghmouri M, Izadi P. Role of the Neanderthal Genome in Genetic Susceptibility to COVID-19: 3p21. 31 Locus in the Spotlight. Biochemical Genetics. 2024 Feb 12:1-25. 
   
-- Letafati A., Salahi O., Yaghmouri M., Vasheghani A., et al. The Role of Pyroptosis in Respiratory Virus Infections (in progress)
+- Letafati, arash; Azhar, Iman Rezaee; Ebrahimi-Dehkordi, Sepehr; Nasiri, Mohammad Mostafa Baradaran; Ardekani, Omid Salahi; Farahani, Ali Vasheghani; Yaghmouri, Mohammad; Qaraee Najafabadi, Ali; Jazayeri, Seyed Mohammad; Rodrigo, Ramón; Saso, Luciano. Unveiling Pyroptosis: Implications in Respiratory Viral Infections. Health Science Reports (Submitted) 
 
 
 #### Congress (2024)
